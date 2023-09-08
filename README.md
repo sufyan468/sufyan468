@@ -13,10 +13,9 @@
 ```javascript
 const sufyan = {
   pronouns: "He" | "him",
-  code: [Javascript, Typescript,Reactjs, Nextjs, Nodejs, NestJs],
+  code: [React js, Nextjs, Node js, Nest js, Javascript, Typescript],
   tools: [ Redux, Node, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
- challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
 }
 ```
 

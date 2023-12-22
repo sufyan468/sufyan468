@@ -1,7 +1,7 @@
 ### Hi there 👋
 <h2> Hi, I'm Abu Sufyan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/l0WCSEg7VEOLE4mUEb/giphy.gif" width="230">
-<p><em>Software Enginner at <a href="https://www.linkedin.com/company/devigital-systems/mycompany/">Devigital Systems.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
+<p><em>Software Engineer at <a href="https://www.linkedin.com/company/devigital-systems/mycompany/">Devigital Systems.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
 </em></p>
 
 [![Linkedin: muhammadabusufyan](https://img.shields.io/badge/-muhammadabusufyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadabusufyan/)](https://www.linkedin.com/in/muhammadabusufyan/)
@@ -13,8 +13,8 @@
 ```javascript
 const sufyan = {
   pronouns: "He" | "him",
-  code: [React js, Next js, Node js, Nest js, Javascript, Typescript],
-  tools: [ Redux, Node, Storybook, Styled-Components, Jest, Docker],
+  code: [ReactJs, NextJs, NodeJs, NestJs, Javascript, Typescript],
+  tools: [Redux, ReactQuery, Storybook, Styled-Components, Jest, Docker],
   architecture: ["microservices", "event-driven", "design system pattern"],
 }
 ```

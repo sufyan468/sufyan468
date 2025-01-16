@@ -13,7 +13,7 @@
 ```javascript
 const sufyan = {
   pronouns: 'He' | 'him',
-  code: ['ReactJs', 'NextJs', 'NodeJs', 'NestJs', 'Javascript', 'Typescript'],
+  code: ['ReactNative', 'ReactJs', 'NextJs', 'NodeJs', 'NestJs', 'Javascript', 'Typescript'],
   tools: ['Redux', 'ReactQuery', 'Storybook', 'Styled-Components', 'Jest', 'Docker', 'Kafka'],
   cssLibraries: ['BootStrap', 'Animate', 'TailwindCss', 'Skeleton', 'Magic'],
   architecture: ['microservices', 'event-driven', 'design system pattern'],

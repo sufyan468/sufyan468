@@ -1,25 +1,90 @@
-### Hi there 👋
-<h2> Hi, I'm Abu Sufyan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/l0WCSEg7VEOLE4mUEb/giphy.gif" width="230">
-<p><em>Software Engineer at <a href="https://www.linkedin.com/company/devigital-systems/mycompany/">Devigital Systems.</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>
-</em></p>
+<!-- Profile README for Abu Sufyan -->
 
-[![Linkedin: muhammadabusufyan](https://img.shields.io/badge/-muhammadabusufyan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhammadabusufyan/)](https://www.linkedin.com/in/muhammadabusufyan/)
-[![GitHub sufyan468](https://img.shields.io/github/followers/sufyan468?label=follow&style=social)](https://github.com/sufyan468)
+<div align="center">
 
+<h1>Hi there, I'm Abu Sufyan! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="40"></h1>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+<a href="https://www.linkedin.com/in/muhammadabusufyan/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+<a href="https://github.com/sufyan468">
+  <img src="https://img.shields.io/github/followers/sufyan468?label=GitHub&style=for-the-badge&logo=github">
+</a>
+<a href="mailto:muhammadabusufyan468@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+<br /><br />
+
+</div>
+
+---
+
+## 🚀 About Me
+
+- 🧑‍💻 **Software Engineer** at [Devigital Systems](https://www.linkedin.com/company/devigital-systems/mycompany/)
+- 🌱 Passionate about building scalable products, modern JavaScript/TypeScript stacks, LLMs, and elegant UI/UX
+- 🤝 Always eager to collaborate, learn, and connect with other developers!
+- 💳 Experienced integrating payment gateways: **Plaid, Stripe, PayPal**
+- 🤖 Exploring advanced AI: **Multimodal LLMs, LangChain, LangGraph, LangSmith**
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,react,redux,nextjs,nodejs,nestjs,docker,kafka,tailwind,bootstrap,storybook,jest,styledcomponents,python" height="48" />
+
+</div>
 
 ```javascript
 const sufyan = {
-  pronouns: 'He' | 'him',
-  code: ['ReactNative', 'ReactJs', 'NextJs', 'NodeJs', 'NestJs', 'Javascript', 'Typescript'],
-  tools: ['Redux', 'ReactQuery', 'Storybook', 'Styled-Components', 'Jest', 'Docker', 'Kafka'],
-  cssLibraries: ['BootStrap', 'Animate', 'TailwindCss', 'Skeleton', 'Magic'],
-  architecture: ['microservices', 'event-driven', 'design system pattern'],
+  pronouns: 'He' | 'Him',
+  languages: ['JavaScript', 'TypeScript', 'Python'],
+  frameworks: ['React Native', 'React.js', 'Next.js', 'Node.js', 'NestJS'],
+  tools: ['Redux', 'React Query', 'Storybook', 'Styled Components', 'Jest', 'Docker', 'Kafka'],
+  css: ['Tailwind CSS', 'Bootstrap', 'Skeleton', 'Magic', 'Animate'],
+  architecture: ['Microservices', 'Event-driven', 'Design System Patterns'],
+  payments: ['Plaid', 'Stripe', 'PayPal'],
+  ai: ['Multimodal LLMs', 'LangChain', 'LangGraph', 'LangSmith'],
 }
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+---
+
+## 🌟 Highlights
+
+- 🏆 Open Source Contributor & Tech Community Enthusiast
+- ✨ Advocate for clean code, design systems, and innovative user experiences
+- 💳 Deep experience with financial/payment APIs: **Plaid, Stripe, PayPal**
+- 🤖 Building, integrating, and experimenting with **LLMs, Multimodal AI, LangChain, LangGraph, and LangSmith**
+- 🎯 Focused on microservices, event-driven architectures, and frontend excellence
 
 ---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammadabusufyan/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" height="30">
+</a>
+<a href="mailto:muhammadabusufyan468@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" height="30">
+</a>
+<a href="https://github.com/sufyan468">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="30">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="70" alt="Handshake" />
+  <br/>
+  <em>
+    <b>I love connecting with new people!</b><br>
+    If you want to say <b>hi</b>, I'll be happy to meet you!
+  </em>
+</div>

@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-- 🧑‍💻 **Software Engineer** at [Devigital Systems](https://www.linkedin.com/company/devigital-systems/mycompany/)
+- 🧑‍💻 **Senior Software Engineer** at [Devigital Systems](https://www.linkedin.com/company/devigital-systems/mycompany/)
 - 🌱 Passionate about building scalable products, modern JavaScript/TypeScript stacks, LLMs, and elegant UI/UX
 - 🤝 Always eager to collaborate, learn, and connect with other developers!
 - 💳 Experienced integrating payment gateways: **Plaid, Stripe, PayPal**
